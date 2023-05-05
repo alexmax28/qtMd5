@@ -167,7 +167,7 @@ if __name__ == "__main__":
                 arr.append('=')
                 arr.append(item[1])
                 arr.append('&')
-            # print(arr)
+            # print(f'字元{arr}')
 
             # 主key
             mainkey = ui.lineEdit.text()
